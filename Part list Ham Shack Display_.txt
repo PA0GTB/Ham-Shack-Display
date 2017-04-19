@@ -1,0 +1,25 @@
+Ham Shack Display 
+
+Part list
+All parts are based on 5V and I2C bus design
+
+
+Arduino Nano 3.0 ATmega328P Controller 
+LCM2004A1 20x4 LCD Blue
+LCD1602 display adapter for I2C bus
+
+DS1307 RTC ;   Clock Module. Alternative is DS3231
+CR2032 Battery of LIR2032 rechargeable version 
+AM2320B ; Temperature and Humidity sensor for external mounting
+BMP280 RobotDyn ; Barometric Airpressure sensor for 5V and I2C bus
+
+Single side PCB Printed Circuit Board 2-3-5 joint holes 5x10 cm
+Headers to mount Arduino Nano and sensors on the printed wiring board
+
+Casing : WeroPlast 1010 Euro-casing 150x80x50 ABS ( Conrad)
+Mini USB 5pin Male to USB B Female panel mount type Cable 20cm with screws
+Universal USB 5V adapter 
+USB 2.0 A Male to USB 2.0 B Male cable
+Push button switch, 7 mm, momentary on-off
+
+  
