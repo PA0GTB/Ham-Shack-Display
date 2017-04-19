@@ -1,5 +1,5 @@
 
-Beacuse the Blue ba# Ham-Shack-Display
+# Ham-Shack-Display
 HAM Radio Display via Arduino Nano and Sensors
 -----------------------------------------------------------------------------------------------------------------------
 A Very usefull accessory for Ham Radio Operators, based on Arduino
