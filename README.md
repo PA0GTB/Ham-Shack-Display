@@ -1,2 +1,11 @@
 # Ham-Shack-Display
-HAM Radio Display via Arduino. Displaying, Callsign, Date, UTC &amp; Local time, temperature, humidity and air pressure
+HAM Radio Display via Arduino Nano and Sensors
+-----------------------------------------------------------------------------------------------------------------------
+A Very usefull accessory for Ham Radio Operators, based on Arduino
+On a 20 x 4 LCD display, showing you in one look :
+- The Callsign of the Ham Radio Station
+- The actual Date
+- The actual Time in UTC and LOcal Time ( depeninding on Summer- or Wintertime)
+- The Temeparture in the Shack
+- The Humidity in the Shack
+- The Barometric Airpressure
