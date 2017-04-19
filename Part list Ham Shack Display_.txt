@@ -1,4 +1,4 @@
-Ham Shack Display 
+ Ham Shack Display 
 
 Part list
 All parts are based on 5V and I2C bus design
@@ -6,7 +6,7 @@ All parts are based on 5V and I2C bus design
 
 Arduino Nano 3.0 ATmega328P Controller 
 LCM2004A1 20x4 LCD Blue
-LCD1602 display adapter for I2C bus
+LCD 1602/2004 display adapter for I2C bus
 
 DS1307 RTC ;   Clock Module. Alternative is DS3231
 CR2032 Battery of LIR2032 rechargeable version 
