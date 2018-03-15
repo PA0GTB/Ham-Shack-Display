@@ -11,7 +11,7 @@ LCD 1602/2004 display adapter for I2C bus
 DS1307 RTC ;   Clock Module. Alternative is DS3231
 CR2032 Battery of LIR2032 rechargeable version 
 AM2320B ; Temperature and Humidity sensor for external mounting
-BMPE80 RobotDyn ; Barometric Airpressure sensor for 5V and I2C bus
+BME280 RobotDyn ; Barometric Airpressure sensor for 5V and I2C bus
 
 Single side PCB Printed Circuit Board 2-3-5 joint holes 5x10 cm
 Headers to mount Arduino Nano and sensors on the printed wiring board
