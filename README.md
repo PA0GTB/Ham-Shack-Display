@@ -15,4 +15,4 @@ On a 20 x 4 LCD display, showing you in one look :
 - The Barometric Airpressure
 
 Because the Blue Backlight of this LCD display is very bright, there is provided in a automatic switch off of this Backlight during
-night hours. Its also possible to do this manualy via a push-button
+night hours. Its also possible to do this manualy via a push-button. FRom version 1.5 its possible to choose on- and Off times free
