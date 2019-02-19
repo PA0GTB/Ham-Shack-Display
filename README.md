@@ -1,3 +1,6 @@
+New version of sketch v 1.5
+Changed on- and off switch of backlight routines
+
 
 # Ham-Shack-Display
 HAM Radio Display via Arduino Nano and Sensors
